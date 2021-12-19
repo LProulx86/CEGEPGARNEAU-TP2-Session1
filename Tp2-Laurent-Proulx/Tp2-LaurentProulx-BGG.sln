@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tp2-LaurentProulx-BGG", "Tp2-LaurentProulx-BGG\Tp2-LaurentProulx-BGG.csproj", "{69447760-DD48-462B-ACE3-EB4EE8CCF3EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69447760-DD48-462B-ACE3-EB4EE8CCF3EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69447760-DD48-462B-ACE3-EB4EE8CCF3EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69447760-DD48-462B-ACE3-EB4EE8CCF3EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69447760-DD48-462B-ACE3-EB4EE8CCF3EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {525C1495-1B35-4FD8-9828-16EB19C11785}
+	EndGlobalSection
+EndGlobal

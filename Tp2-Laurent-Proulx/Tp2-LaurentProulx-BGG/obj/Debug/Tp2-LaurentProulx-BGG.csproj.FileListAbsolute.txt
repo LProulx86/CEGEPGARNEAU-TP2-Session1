@@ -1,0 +1,20 @@
+C:\Users\proul\Desktop\Intro prog\TP2\Tp2-LaurentProulx-BGG\Tp2-LaurentProulx-BGG\obj\Debug\Tp2-LaurentProulx-BGG.csprojAssemblyReference.cache
+C:\Users\proul\Desktop\Intro prog\TP2\Tp2-LaurentProulx-BGG\Tp2-LaurentProulx-BGG\bin\Debug\Tp2-LaurentProulx-BGG.exe.config
+C:\Users\proul\Desktop\Intro prog\TP2\Tp2-LaurentProulx-BGG\Tp2-LaurentProulx-BGG\bin\Debug\Tp2-LaurentProulx-BGG.exe
+C:\Users\proul\Desktop\Intro prog\TP2\Tp2-LaurentProulx-BGG\Tp2-LaurentProulx-BGG\bin\Debug\Tp2-LaurentProulx-BGG.pdb
+C:\Users\proul\Desktop\Intro prog\TP2\Tp2-LaurentProulx-BGG\Tp2-LaurentProulx-BGG\obj\Debug\Tp2-LaurentProulx-BGG.exe
+C:\Users\proul\Desktop\Intro prog\TP2\Tp2-LaurentProulx-BGG\Tp2-LaurentProulx-BGG\obj\Debug\Tp2-LaurentProulx-BGG.pdb
+C:\Users\proul\Desktop\Intro prog\TP2\Tp2-Laurent-Proulx-Yannick-Legros\Tp2-LaurentProulx-BGG\bin\Debug\Tp2-LaurentProulx-BGG.exe.config
+C:\Users\proul\Desktop\Intro prog\TP2\Tp2-Laurent-Proulx-Yannick-Legros\Tp2-LaurentProulx-BGG\bin\Debug\Tp2-LaurentProulx-BGG.exe
+C:\Users\proul\Desktop\Intro prog\TP2\Tp2-Laurent-Proulx-Yannick-Legros\Tp2-LaurentProulx-BGG\bin\Debug\Tp2-LaurentProulx-BGG.pdb
+C:\Users\proul\Desktop\Intro prog\TP2\Tp2-Laurent-Proulx-Yannick-Legros\Tp2-LaurentProulx-BGG\obj\Debug\Tp2-LaurentProulx-BGG.csprojAssemblyReference.cache
+C:\Users\proul\Desktop\Intro prog\TP2\Tp2-Laurent-Proulx-Yannick-Legros\Tp2-LaurentProulx-BGG\obj\Debug\Tp2-LaurentProulx-BGG.exe
+C:\Users\proul\Desktop\Intro prog\TP2\Tp2-Laurent-Proulx-Yannick-Legros\Tp2-LaurentProulx-BGG\obj\Debug\Tp2-LaurentProulx-BGG.pdb
+F:\backup - CEGEP\Session 1 - automne 2019\Intro prog\TP2\Tp2-Laurent-Proulx-Yannick-Legros\Tp2-LaurentProulx-BGG\bin\Debug\Tp2-LaurentProulx-BGG.exe.config
+F:\backup - CEGEP\Session 1 - automne 2019\Intro prog\TP2\Tp2-Laurent-Proulx-Yannick-Legros\Tp2-LaurentProulx-BGG\bin\Debug\Tp2-LaurentProulx-BGG.exe
+F:\backup - CEGEP\Session 1 - automne 2019\Intro prog\TP2\Tp2-Laurent-Proulx-Yannick-Legros\Tp2-LaurentProulx-BGG\bin\Debug\Tp2-LaurentProulx-BGG.pdb
+F:\backup - CEGEP\Session 1 - automne 2019\Intro prog\TP2\Tp2-Laurent-Proulx-Yannick-Legros\Tp2-LaurentProulx-BGG\obj\Debug\Tp2-LaurentProulx-BGG.csproj.AssemblyReference.cache
+F:\backup - CEGEP\Session 1 - automne 2019\Intro prog\TP2\Tp2-Laurent-Proulx-Yannick-Legros\Tp2-LaurentProulx-BGG\obj\Debug\Tp2-LaurentProulx-BGG.csproj.CoreCompileInputs.cache
+F:\backup - CEGEP\Session 1 - automne 2019\Intro prog\TP2\Tp2-Laurent-Proulx-Yannick-Legros\Tp2-LaurentProulx-BGG\obj\Debug\Tp2-LaurentProulx-BGG.exe
+F:\backup - CEGEP\Session 1 - automne 2019\Intro prog\TP2\Tp2-Laurent-Proulx-Yannick-Legros\Tp2-LaurentProulx-BGG\obj\Debug\Tp2-LaurentProulx-BGG.pdb
+F:\backup - CEGEP\Session 1 - automne 2019\Intro prog\TP2\Tp2-Laurent-Proulx-Yannick-Legros\Tp2-LaurentProulx-BGG\obj\Debug\Tp2-LaurentProulx-BGG.csproj.SuggestedBindingRedirects.cache
